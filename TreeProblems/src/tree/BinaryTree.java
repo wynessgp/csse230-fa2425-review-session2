@@ -113,18 +113,18 @@ public class BinaryTree {
 	 * 
 	 *                    25
 	 *                   /  \
-	 *                  17   31
+	 *                  21   31
 	 *                 /  \
-	 *                21  23
+	 *                17  23
 	 * 
 	 * And I give you the list: [1, 2]
 	 * The resulting tree would look like:
 	 * 
 	 *                          25
 	 *                      /         \
-	 *                 17                 31
+	 *                 21                 31
 	 *             /        \            /   \
-	 *         21              23       2     2
+	 *         17              23       2     2
 	 *        /  \            /  \     /     / 
 	 *       2    2          2    2   1     1
 	 *      /    /          /    /

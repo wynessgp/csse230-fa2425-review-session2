@@ -43,7 +43,7 @@ class BinaryTreeTest {
 	
 	@Test
 	void testCountSevensInTree_number777And77And27InTreeAtFarEnds_shouldReturnSix() {
-		bt.insert(375);
+		bt.insert(365);
 		bt.insert(250);
 		bt.insert(125);
 		bt.insert(50);
